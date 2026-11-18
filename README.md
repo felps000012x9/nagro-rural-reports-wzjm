@@ -1,2 +1,3 @@
-# nagro-rural-reports-wzjm
-Relatorios Nagro - storage interno
+# nagro-rural-reports
+
+Relatorios da operacao Nagro. Integracao interna de storage.
